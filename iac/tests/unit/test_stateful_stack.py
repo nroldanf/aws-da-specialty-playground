@@ -14,3 +14,7 @@ def test_kinesis_data_stream_created():
             "ShardCount": Config.kinesis_shard_count
         }
     )
+
+# test to enforce S3 security
+
+# test to enfoce kinesis security
